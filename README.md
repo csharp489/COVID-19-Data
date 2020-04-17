@@ -29,4 +29,4 @@ This tutorial will show you how to:
 
 ## Part 3: Python Data Analysis[Data Exploration]- COVID19 Data 
  
-** Initail Data Exploration**
+**Intial Data Explortion**
